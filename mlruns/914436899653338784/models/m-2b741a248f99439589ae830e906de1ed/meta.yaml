@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/DELL/Downloads/MLProject/mlruns/914436899653338784/models/m-2b741a248f99439589ae830e906de1ed/artifacts
+creation_timestamp: 1771071567253
+experiment_id: '914436899653338784'
+last_updated_timestamp: 1771071575781
+model_id: m-2b741a248f99439589ae830e906de1ed
+model_type: null
+name: model
+source_run_id: 8f9f7a4cc1fa4c4f95f78e4720cb2d16
+status: 2
+status_message: null

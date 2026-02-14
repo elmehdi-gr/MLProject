@@ -1,0 +1,4 @@
+Model,Baseline Acc,Tuned Acc,Δ Acc,Baseline F1,Tuned F1,Δ F1
+SVM,0.8704,0.8869,+0.0166,0.8704,0.8867,+0.0162
+Random Forest,0.9706,0.9708,+0.0002,0.9706,0.9709,+0.0002
+Gradient Boosting,0.9701,0.9693,-0.0008,0.9701,0.9692,-0.0008

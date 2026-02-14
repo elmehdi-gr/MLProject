@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Downloads/MLProject/mlruns/914436899653338784/263cde3c90054763ae5b7f166f90200c/artifacts
+end_time: 1771072262192
+entry_point_name: ''
+experiment_id: '914436899653338784'
+lifecycle_stage: active
+run_id: 263cde3c90054763ae5b7f166f90200c
+run_name: MLP (PyTorch)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771072261937
+status: 3
+tags: []
+user_id: EMG

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (Exclude large/raw data if preferred, but keeping here for project completeness)
+# data/raw/
+# data/processed/
+
+# DatasetHAR
+DatasetHAR/
+
+#processed_data
+processed_data/
+
+# Plots/Results (Optional exclude)
+# results/
+# images/
+
+# IDE
+.vscode/
+.idea/
