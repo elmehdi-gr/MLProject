@@ -1,7 +1,7 @@
 # Human Activity Recognition (HAR) Project
 
 **Course:** Machine Learning  
-**Student:** Ali Ahmed  
+**Student:** G'RIGUAA EL MEHDI  
 **Supervisor:** Professor Fahd Kalloubi
 
 ## Overview
@@ -61,3 +61,4 @@ mlflow ui
 
 - **Best Model:** Random Forest & Gradient Boosting (~97% Accuracy)
 - **Deep Learning:** 1D CNN performed comparably on raw data.
+
