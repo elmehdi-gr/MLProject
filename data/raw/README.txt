@@ -3,9 +3,6 @@
 Please download the **Human Activity Recognition (HAR)** dataset and place the files here.
 
 **Link to Dataset:**
-[Insert Link Here]
+https://zenodo.org/records/15830858
 
-**Expected Structure:**
-- `subject1_data.csv`
-- `subject2_data.csv`
-- ...
+
